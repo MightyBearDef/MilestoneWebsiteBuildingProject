@@ -1,0 +1,30 @@
+/* DEBUG */
+/* * {
+    background-color: black !important;
+    color: black !important;
+    border: 2px solid red !important;
+} */
+body {
+  background-color: rosybrown;
+}
+header {
+  background-image: url("https://placehold.co/600x400");
+}
+nav {
+  background-color: aquamarine;
+  padding: 5%;
+  margin: auto;
+  position: sticky;
+}
+nav ul {
+  list-style: none;
+  text-align: right;
+}
+nav li {
+  display: inline-block;
+  font-size: 25px;
+}
+.placeholder-about {
+  display: inline-block;
+  width: 50px;
+}
